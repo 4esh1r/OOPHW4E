@@ -1,3 +1,4 @@
+package org.itstep;
 import java.util.Random;
 import java.util.Scanner;
 
